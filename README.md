@@ -1,4 +1,4 @@
-# game-jam-vgdc-workshop1
+# GameJam2023 VGDC Workshop 1
 All the resources needed to follow along with the VGDC workshop to prepare you for the game creation week.
 
 ## Todo
